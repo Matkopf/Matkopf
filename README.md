@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋
 
 ## About Me
-🌟 Hi, I'm Matus VANO, also know as Matkopf! (he/him)  
+🌟 Hi, I'm Matus, also know as Matkopf! (he/him)  
 🎓 A student passionate about robotics, programming, and technology  
 🥇 Austrian Champion in RoboCup Junior Rescue Maze Entry 2023  
 🌍 Based in Austria 🇦🇹  
