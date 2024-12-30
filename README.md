@@ -31,7 +31,7 @@ Here are some tools and technologies I work with:
 This project involved designing, building, and programming an autonomous robot capable of navigating and solving complex maze scenarios in the RCJ Rescue Maze competition.  
 
 - [Results of the European Open](https://robocup.zviz.net/european-robocup-junior-2023/results#) *(Go to page 9 and search for "Himbeerkuchen.")*  
-- A short video of our robot in action is available in the [Himbeerkuchen@RCJEuropeanOpen2023 repository](https://github.com/yourusername/Himbeerkuchen@RCJEuropeanOpen2023).  
+- A short video of our robot in action is available in the [Himbeerkuchen-RCJEuropeanOpen2023](https://github.com/Matkopf/Himbeerkuchen-RCJEuropeanOpen2023) repository.  
 
 ### RoboCup Junior Rescue Maze 2025 | Team Name: Himbeerkuchen 
 🏆 **RCJ Austrian Open scheduled: 24–25th April 2025**  
