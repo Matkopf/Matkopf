@@ -16,7 +16,7 @@ Here are some tools and technologies I work with:
 
 - **Languages**: C++, Python
   - *Also familiar with*: JavaScript, HTML
-- **Frameworks/Libraries**: Google LiteRT (TensorFlow), VS Code, PlatformIO  
+- **Frameworks/Libraries**: TensorFlow, VS Code, PlatformIO  
 - **Tools**: Raspberry Pi, Arduino, Makeblock Ranger  
 
 ## Spoken Languages
