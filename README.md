@@ -1,13 +1,14 @@
 # Welcome to my GitHub! 👋
 
 ## About Me
-🌟 Hi, I'm Matus, also know as Matkopf! (he/him)  
+🌟 Hi, I'm Matus, also known as Matkopf! (he/him)  
 🎓 A student passionate about robotics, programming, and technology  
 🥇 Austrian Champion in RoboCup Junior Rescue Maze Entry 2023  
 🌍 Based in Austria 🇦🇹  
 
-- 🔭 **Currently working on**: RCJ Rescue Maze Robot  
-- 🤖 **Special interest**: Hands-on experience participating in **RoboCup Junior (RCJ) Rescue** competitions.  
+- 🔭 **Currently working on**: RCJ Rescue Maze Robot for 2025  
+- 🤖 **Special interest**: Robotics
+- 🤖 Hands-on experience participating in **RoboCup Junior (RCJ) Rescue** competitions.  
 - ⚡ **Fun fact**: I forgot to drink my coffee today.  
 
 ## Skills
@@ -15,7 +16,7 @@ Here are some tools and technologies I work with:
 
 - **Languages**: C++, Python
   - *Also familiar with*: JavaScript, HTML
-- **Frameworks/Libraries**: TensorFlow, VS Code, PlatformIO  
+- **Frameworks/Libraries**: Google LiteRT (TensorFlow), VS Code, PlatformIO  
 - **Tools**: Raspberry Pi, Arduino, Makeblock Ranger  
 
 ## Spoken Languages
@@ -25,7 +26,7 @@ Here are some tools and technologies I work with:
 
 ## Projects
 ### RoboCup Junior Rescue Maze Entry 2023 | Team Name: Himbeerkuchen  
-🏆 **Winners of the RCJ Austrian Open**  
+🏆 **Won the RoboCupJunior Austrian Open**  
 🥈 **10th Place at the RCJ European Open in Varazdin**  
 
 This project involved designing, building, and programming an autonomous robot capable of navigating and solving complex maze scenarios in the RCJ Rescue Maze competition.  
